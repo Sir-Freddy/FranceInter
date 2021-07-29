@@ -4,8 +4,8 @@ from azure.cognitiveservices.vision.computervision.models import VisualFeatureTy
 from msrest.authentication import CognitiveServicesCredentials
 import json
 
-subscription_key = "6fb40bc349b14a6b9fb0bc0831619418"
-endpoint = "https://france-inter-freddy.cognitiveservices.azure.com/"
+subscription_key = "your subscription_key"
+endpoint = "your endpoint"
 computervision_client = ComputerVisionClient(endpoint, CognitiveServicesCredentials(subscription_key))
 
 def numberOfPeople(url) :
