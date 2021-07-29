@@ -1,0 +1,5 @@
+<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xml:lang='fr-FR' xmlns:mstts='http://www.w3.org/2001/mstts' xmlns:emo='http://www.w3.org/2009/10/emotionml'>
+    <voice name='fr-FR-HenriNeural'>
+        3 personnes maximum dans le studio.
+    </voice>
+</speak>
