@@ -1,8 +1,8 @@
 import requests, uuid, json
 
-subscription_key = "d329c7b7171d4f6e8013e71ad190040a"
-endpoint = "https://api.cognitive.microsofttranslator.com"
-location = "westeurope"
+subscription_key = "your subscription_key"
+endpoint = "your endpoint"
+location = "your location"
 
 # Fonctionnelle
 def translate(text) :
