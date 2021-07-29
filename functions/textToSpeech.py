@@ -4,8 +4,8 @@ from functions.translations import translate
 import json
 
 
-subscription_key = "94be09f162ee4a35b808431faded0283"
-region = "westeurope"
+subscription_key = "your subscription_key"
+region = "your region"
 
 # Fonctionnelle
 def config_sounds(message) :
